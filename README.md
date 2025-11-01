@@ -1,0 +1,1 @@
+# Plant-Leaf-s-Image-Disease-Detector
